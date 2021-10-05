@@ -2,15 +2,15 @@ smarteduapp
 Server
 
  Requirements:
--Node JS
--Express JS
--My SQL
--Json Web Token
--Bcrypt
--Multer
+- Node JS
+- Express JS
+- My SQL
+- Json Web Token
+- Bcrypt
+- Multer
 
 Getting Started : 
--Clone this repository
+- Clone this repository
 - 'npm install' to install all required depedencies
 - 'npm start' to start the local server
 
